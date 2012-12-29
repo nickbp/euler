@@ -1,0 +1,11 @@
+This repo contains the code I wrote to solve some Project Euler problems. I'm "nickbp" on there.
+
+The files themselves are a mix of C (.c) and C++ (.cc). They are known-working as of gcc 4.7. They should be built like this:
+
+C:   $ gcc -std=c99 x.c
+C++: $ g++ -std=c++11 x.cc
+
+You can also add the "-O3" flag if you're feeling frisky.
+
+As of this writing, the current solutions are reasonably efficient and understandable.
+However, I haven't yet compared my solutions to others', so it's possible/likely that there are better implementations elsewhere.
