@@ -1,3 +1,9 @@
+THIS PROJECT HAS MOVED TO SOURCEHUT!: https://sr.ht/~nickbp/euler
+
+I'm consolidating my personal projects in one place. As such the old GitHub repo is being archived, and work now continues on sourcehut.
+
+---
+
 This repo contains the code I wrote to solve some Project Euler problems. I'm "nickbp" on there.
 
 The files themselves are a mix of C (.c) and C++ (.cc). They are known-working as of gcc 4.7. They should be built like this:
